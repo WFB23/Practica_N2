@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/wfb23/Escritorio/practica-2/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/wfb23/Escritorio/practica-2/src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/wfb23/Escritorio/practica-2/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/wfb23/Escritorio/practica-2/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/wfb23/Escritorio/practica-2/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/wfb23/Escritorio/practica-2/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/wfb23/Escritorio/practica-2/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/wfb23/Escritorio/practica-2/src/main/frontend/generated/jar-resources",
+  "themeName": "default",
+  "clientServiceWorkerSource": "/home/wfb23/Escritorio/practica-2/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
